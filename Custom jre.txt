@@ -1,0 +1,2 @@
+jlink --module-path "C:\Program Files\Java\javafx-jmods-11.0.2";"C:\Users\rafal\eclipse-workspace\Calculator2\bin" --add-modules=JavaCalc --output CALJRE
+CALJRE\bin\java -m JavaCalc/JavaCalc.MainSSS
